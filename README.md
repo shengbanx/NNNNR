@@ -15,7 +15,7 @@ NNNNR——Four things I love and one awesome thing I do, now.
 
 其实只是经常做一些奇怪的网页，不知道放哪里好，不想与个人博客一起，只好做一个这样存放自己喜欢的东西的“大杂烩”网站，命名纯属为了好玩哈。
 
-目前的##嗯##系列：
+目前的嗯（N）系列：
 - 嗯，风暴英雄
 - 嗯，
 - 嗯，
@@ -37,7 +37,7 @@ NNNNR——Four things I love and one awesome thing I do, now.
 - 可以快速查询到各英雄的主流天赋构建
 - 值得参考的英雄分级
 - 周免英雄和周打折（预告）
-- 以及有用 / 有趣的链接收藏
+- 以及有用/有趣的链接收藏
 
 其实我最想的是里面有我自己的天赋构建和英雄分级定位分析~
 
@@ -46,6 +46,8 @@ NNNNR——Four things I love and one awesome thing I do, now.
 ### 嗯，
 
 ## 啊，
+
+***
 
 ### 关于我
 
