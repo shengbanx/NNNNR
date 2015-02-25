@@ -4,6 +4,7 @@ For my love and my dream, there is much to be done.
 爱与梦想，还有很长的路要走。
 
 ***
+新的一年了，在2015年，希望记录点什么。
 
 ###为什么是“嗯嗯嗯嗯啊”？
 
