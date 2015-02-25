@@ -16,15 +16,18 @@ NNNNR——Four things I love and one awesome thing I do, now.
 其实只是经常做一些奇怪的网页，不知道放哪里好，不想与个人博客一起，只好做一个这样存放自己喜欢的东西的“大杂烩”网站，命名纯属为了好玩哈。
 
 目前的嗯（N）系列：
+
 - 嗯，风暴英雄
 - 嗯，
 - 嗯，
 - 嗯，
 
 还有我的朝思暮想的最想完成的一个东西。
+
 - 啊，
 
 ### 嗯，风暴英雄（[hots.nnnr.com](http://hots.nnnnr.com)）
+
 嗯，首先加入的是这个暴雪出的MOBA游戏——风暴英雄（Hero of the Storm）（类Dota，LOL），实在中毒太深了。
 
 作为不太资深的撸友，从大一跟大家一起玩的Dota到后来大家都转去玩LOL了，而我还在技术路上打滚，玩得少越玩越菜挤不进LOL大本营了。
@@ -52,4 +55,5 @@ NNNNR——Four things I love and one awesome thing I do, now.
 ### 关于我
 
 我的个人网站：伴星（[shengbanx.com](http://shengbanx.com)）
+
 Email：shengbanx@gmail.com
