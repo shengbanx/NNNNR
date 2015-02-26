@@ -19,7 +19,7 @@ NNNNR——Four things I love and one awesome thing I do, now.
 目前的嗯（N）系列：
 
 - 嗯，风暴英雄
-- 嗯，
+- 嗯，Chormebook
 - 嗯，
 - 嗯，
 
